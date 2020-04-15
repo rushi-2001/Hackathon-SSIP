@@ -17,4 +17,6 @@
 #### As soon as their request is completed(garbage is collected) citizens gets notification of it.
 
 ### SO , in this way a unique concept and idea of SWATCHTA ABHIYAAN was presented by our Team , and our team is now selected for FINAL ROUND of this Hackathon.
+#### Video and PPT of this project is present in 'Video of Project.txt' file in repository.
+#### And other files of project are also present
 ### RUSHI PATEL, 18BCE201
