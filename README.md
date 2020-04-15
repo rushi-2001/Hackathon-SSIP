@@ -1,9 +1,11 @@
 # Hackathon-SSIP
 ## Our Team of 6 Students participated in SSIP Hackathon organised by Gujarat Government.
 ## Our topic was : Cleanliness Automation using Deep Learning.
-### Under that idea, we prepared two mobile Apps as a product namely 1)Swatchta Soldier and 1)Clean India
-### Swatchta Soldier App is for government Authorities 
-### Clean India App is for citizens
+### Under that idea, we prepared two mobile Apps as a product namely 
+### 1)Swatchta Soldier and 
+### 2)Clean India
+### 'Swatchta Soldier App' is for government Authorities 
+### 'Clean India App' is for citizens
 
 #### The main issue was, govt. garbage vehicles collect garbage from their pre-specified placces, but some places which have garbage which is observed by citizens everyday but cannot inform govt. about this.
 #### So we made these two app to solve this biggest issue and connect citizens and govt. authorities through APPs.
